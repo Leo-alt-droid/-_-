@@ -1,0 +1,307 @@
+# Translation of Themes - Hexagon in Russian
+# This file is distributed under the same license as the Themes - Hexagon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-07 16:25:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Hexagon\n"
+
+#. Theme Name of the theme
+msgid "Hexagon"
+msgstr "Hexagon"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:39
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Изменить<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: inc/template-tags.php:18
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:302
+msgid "Go Pro"
+msgstr "Получить PRO"
+
+#: inc/customizer.php:301
+msgid "Hexagon Pro "
+msgstr "Hexagon Pro "
+
+#: inc/customizer.php:193
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr "Выберите избранные страницы для каждой области из выпадающих списков. Добавьте изображение в раздел, установив избранное изображение в редакторе страницы. Пустые разделы не будут показаны."
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:192
+msgid "Front Page Section %d Content"
+msgstr "Содержимое раздела «%d» главной страницы"
+
+#: inc/customizer.php:150 inc/customizer.php:160
+msgid "Footer Text"
+msgstr "Текст в нижней части"
+
+#: inc/customizer.php:35
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: inc/customizer.php:40
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: index.php:18
+msgid "Posts"
+msgstr "Записи"
+
+#: search.php:40 search.php:76 search.php:112 search.php:147 search.php:185
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: %s: search term
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Результаты поиска «%s»"
+
+#: page-template/custom-home-page.php:27 page-template/custom-home-page.php:67
+msgid "Read More"
+msgstr "Читать далее"
+
+#: functions.php:123
+msgid "Footer 4"
+msgstr "Нижняя часть 4"
+
+#: functions.php:113
+msgid "Footer 3"
+msgstr "Нижняя часть 3"
+
+#: functions.php:103
+msgid "Footer 2"
+msgstr "Нижняя часть 2"
+
+#: functions.php:93
+msgid "Footer 1"
+msgstr "Нижняя часть 1"
+
+#: functions.php:63
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: single.php:34 single.php:60 single.php:85 single.php:110 single.php:137
+#: single.php:205
+msgid "Next"
+msgstr "Далее"
+
+#: single.php:34 single.php:60 single.php:85 single.php:110 single.php:137
+#: single.php:205
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: single.php:33 single.php:59 single.php:84 single.php:109 single.php:136
+#: single.php:204
+msgid "Previous"
+msgstr "Назад"
+
+#: single.php:33 single.php:59 single.php:84 single.php:109 single.php:136
+#: single.php:204
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: searchform.php:18
+msgctxt "submit button"
+msgid "Search"
+msgstr "Найти"
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: template-parts/post/grid-layout.php:19 template-parts/post/content.php:24
+msgid "READ MORE"
+msgstr "ЧИТАТЬ ДАЛЕЕ"
+
+#: template-parts/post/content-single.php:18 template-parts/post/content.php:16
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: template-parts/post/content-single.php:18 template-parts/post/content.php:16
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#: template-parts/post/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/post/content-none.php:13 search.php:17
+msgid "Nothing Found"
+msgstr "Не найдено"
+
+#: template-parts/page/content-page.php:21
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: archive.php:50 archive.php:83 archive.php:116 archive.php:148
+#: archive.php:182 archive.php:217 archive.php:250 single.php:178 index.php:51
+#: index.php:86 index.php:120 index.php:155 index.php:191 index.php:227
+#: index.php:257 search.php:52 search.php:88 search.php:124 search.php:159
+#: search.php:197 search.php:234 search.php:267
+msgid "Page"
+msgstr "Страница"
+
+#: archive.php:49 archive.php:82 archive.php:115 archive.php:147
+#: archive.php:181 archive.php:216 archive.php:249 single.php:177 index.php:50
+#: index.php:85 index.php:119 index.php:154 index.php:190 index.php:226
+#: index.php:256 search.php:51 search.php:87 search.php:123 search.php:158
+#: search.php:196 search.php:233 search.php:266
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: archive.php:48 archive.php:81 archive.php:114 archive.php:146
+#: archive.php:180 archive.php:215 archive.php:248 single.php:176 index.php:49
+#: index.php:84 index.php:118 index.php:153 index.php:189 index.php:225
+#: index.php:255 search.php:50 search.php:86 search.php:122 search.php:157
+#: search.php:195 search.php:232 search.php:265
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: inc/customizer.php:57
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#: inc/customizer.php:144
+msgid "Select Category to display Post"
+msgstr "Выберите категорию для показа записи"
+
+#: inc/customizer.php:119
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: inc/customizer.php:110
+msgid "This section will appear below the services."
+msgstr "Этот раздел появится под услугами."
+
+#: inc/customizer.php:109
+msgid "Our Services"
+msgstr "Наши услуги"
+
+#: inc/customizer.php:78
+msgid "Show / Hide slider"
+msgstr "Показать/скрыть слайдер"
+
+#: inc/customizer.php:67
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:61
+msgid "Grid Layout"
+msgstr "Разметка в виде сетки"
+
+#: inc/customizer.php:60
+msgid "Four Columns"
+msgstr "Четыре столбца"
+
+#: inc/customizer.php:59
+msgid "Three Columns"
+msgstr "Три столбца"
+
+#: inc/customizer.php:58
+msgid "One Column"
+msgstr "Один столбец"
+
+#: inc/customizer.php:56
+msgid "Left Sidebar"
+msgstr "Левая область виджетов"
+
+#: inc/customizer.php:53
+msgid "Do you want this section"
+msgstr "Вы хотите этот раздел"
+
+#: inc/customizer.php:36
+msgid "Description of what this panel does."
+msgstr "Описание того, что делает эта панель."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:27
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к «%2$s»"
+msgstr[1] "%1$s комментария к «%2$s»"
+msgstr[2] "%1$s комментариев к «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:22
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к «%s»"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+#: 404.php:18
+msgid "Return to home page"
+msgstr "На главную страницу"
+
+#. Template Name of the theme
+msgid "Custom Home"
+msgstr "Пользовательская домашняя страница"
+
+#. Template Name of the theme
+msgid "Page left sidebar"
+msgstr "Страница левой области виджетов"
+
+#. Template Name of the theme
+msgid "Page right sidebar"
+msgstr "Страница правой области виджетов"
+
+#: functions.php:95 functions.php:105 functions.php:115 functions.php:125
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты для их помещения в нижнюю часть сайта."
+
+#: functions.php:83
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: functions.php:75 functions.php:85
+msgid "Add widgets here to appear in your pages and posts"
+msgstr "Добавьте сюда виджеты для их помещения на страницы и записи"
+
+#: functions.php:73
+msgid "Sidebar 2"
+msgstr "Область виджетов 2"
+
+#: functions.php:65
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте сюда виджеты для их помещения в область виджетов в записях блога и страницах архива."
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти для покупки."
+
+#. Author URI of the theme
+msgid "https://www.luzuk.com/"
+msgstr "https://www.luzuk.com/"
+
+#. Author of the theme
+msgid "Luzuk"
+msgstr "Luzuk"
+
+#. Theme URI of the theme
+#: functions.php:217
+msgid "https://www.luzuk.com/themes/free-hexagon-wordpress-theme/"
+msgstr "https://www.luzuk.com/themes/free-hexagon-wordpress-theme/"
